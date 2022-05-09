@@ -21,7 +21,7 @@ Hi! I am 25 years old, now i work as a сommissioning and testing engineer. I ha
 
 # Code Examples
 
-https://www.codewars.com/kata/572b6b2772a38bc1e700007a
+[ASCII Total Kata](https://www.codewars.com/kata/572b6b2772a38bc1e700007a)
 
 ```
 function uniTotal(str) {
@@ -48,4 +48,4 @@ Self-learning
 # Languages
 
 * **Russian** - native speaker.
-* **English** - Intermediate, according to quick test: https://www.efset.org/quick-check/take-test/#set15-190/result
+* **English** - Intermediate, according to quick test: https://www.efset.org/quick-check/take-test/
