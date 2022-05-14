@@ -43,9 +43,12 @@ function uniTotal(str) {
 
 # Education
 
-Self-learning
+Self-learning:
+[Stepik](https://stepik.org)
+[Freecodecamp](https://www.freecodecamp.org)
+And many other sourses.
 
 # Languages
 
 * **Russian** - native speaker.
-* **English** - Intermediate, according to quick test: https://www.efset.org/quick-check/take-test/
+* **English** - Intermediate, but im not so sure¯\_(ツ)_/¯, according to quick test: https://www.efset.org/quick-check/take-test/
