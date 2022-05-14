@@ -51,4 +51,4 @@ And many other sourses.
 # Languages
 
 * **Russian** - native speaker.
-* **English** - Intermediate, but im not so sure¯\_(ツ)_/¯, according to quick test: https://www.efset.org/quick-check/take-test/
+* **English** - Intermediate, but im not so sure ¯\_(ツ)_/¯, according to quick test: https://www.efset.org/quick-check/take-test/
