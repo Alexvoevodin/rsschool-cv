@@ -1,13 +1,15 @@
 body{
-	--main-color: #101214;
+	--main-color: #eaeaea;
 }
 
 body{
+	background-color: #000000de;
 	box-sizing: border-box;
 	margin: 0;
-	padding: 0;
+	padding: 50px;
 	text-decoration: none;
 	color: var(--main-color);
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, a{
@@ -24,5 +26,57 @@ h1, h2, h3, h4, h5, h6, a{
 
 .header__wrap{
 	display: flex;
-	flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
+	border-bottom: 2px solid #ffffff29;
+    border-radius: 10px;
+}
+
+.header__title-wrap{
+
+}
+
+.header__subtitle{
+	font-size: 18px;
+	color: #2AAEE7;
+}
+
+.header__photo{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+.contact-info{
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.contact-info__link{
+	text-transform: uppercase;
+	font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-info__link svg{
+	margin-right: 5px;
+	width: 20px;
+	height: 20px;
+}
+
+.contact-info__link:hover svg{
+	/* stroke: #2AAEE7; */
+}
+
+.contact-info__link:hover svg g{
+	fill: #2AAEE7;
+	stroke: #2AAEE7;
+}
+
+.contact-info__link:hover svg path{
+	fill: #2AAEE7;
+	stroke: #2AAEE7;
 }
